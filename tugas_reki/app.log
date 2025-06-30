@@ -1,0 +1,111 @@
+2025-05-15 16:48:48,584 - __main__ - INFO - Database initialized successfully
+2025-05-15 16:48:48,590 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-15 16:48:50,044 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.245.54:8080
+2025-05-15 16:48:50,044 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 16:49:11,529 - werkzeug - INFO - 192.168.245.54 - - [15/May/2025 16:49:11] "GET / HTTP/1.1" 200 -
+2025-05-15 16:49:11,924 - werkzeug - INFO - 192.168.245.54 - - [15/May/2025 16:49:11] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 16:49:15,310 - werkzeug - INFO - 192.168.245.54 - - [15/May/2025 16:49:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-15 16:52:37,980 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:52:37] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 16:56:23,478 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:56:23] "[31m[1mPOST /api/products/1 HTTP/1.1[0m" 405 -
+2025-05-15 16:56:38,005 - __main__ - INFO - New product added: Kue Lapis wenak cuy
+2025-05-15 16:56:38,005 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:56:38] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2025-05-15 16:56:46,699 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:56:46] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 16:57:33,901 - __main__ - INFO - Product updated: 1
+2025-05-15 16:57:33,901 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:57:33] "PUT /api/products/1 HTTP/1.1" 200 -
+2025-05-15 16:57:39,699 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:57:39] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 16:58:12,761 - __main__ - INFO - Product updated: 1
+2025-05-15 16:58:12,761 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:58:12] "PUT /api/products/1 HTTP/1.1" 200 -
+2025-05-15 16:58:17,157 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:58:17] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 16:59:04,999 - __main__ - INFO - New product added: pempek nesta
+2025-05-15 16:59:04,999 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:59:04] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2025-05-15 16:59:08,747 - werkzeug - INFO - 127.0.0.1 - - [15/May/2025 16:59:08] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 17:00:07,613 - __main__ - INFO - Database initialized successfully
+2025-05-15 17:00:07,618 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-15 17:00:08,898 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.245.54:8080
+2025-05-15 17:00:08,898 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-15 17:00:27,491 - werkzeug - INFO - 192.168.245.54 - - [15/May/2025 17:00:27] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-15 17:00:27,658 - werkzeug - INFO - 192.168.245.54 - - [15/May/2025 17:00:27] "GET /api/products HTTP/1.1" 200 -
+2025-05-15 17:00:27,669 - werkzeug - INFO - 192.168.245.54 - - [15/May/2025 17:00:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 10:03:46,423 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:03:46,431 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:03:46,431 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:03:48,045 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:03:48,045 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:03:48,045 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:03:48,046 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:04:06,960 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:06] "GET / HTTP/1.1" 200 -
+2025-05-16 10:04:07,265 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:07] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:04:07,906 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 10:04:25,403 - __main__ - INFO - New product added: pempek reiki
+2025-05-16 10:04:25,403 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:25] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2025-05-16 10:04:30,625 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:30] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:04:39,688 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:39] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-16 10:04:39,731 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:04:39] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:06:52,673 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:06:52,681 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:06:53,987 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:06:53,987 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:07:09,711 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:07:09] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:08:39,307 - __main__ - INFO - Product updated: 1
+2025-05-16 10:08:39,316 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:08:39] "PUT /api/products/1 HTTP/1.1" 200 -
+2025-05-16 10:09:09,855 - __main__ - INFO - New product added: kue reiki
+2025-05-16 10:09:09,855 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:09:09] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2025-05-16 10:09:13,605 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:09:13] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:09:28,931 - __main__ - INFO - Product deleted: 1
+2025-05-16 10:09:28,935 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:09:28] "DELETE /api/products/1 HTTP/1.1" 200 -
+2025-05-16 10:09:34,636 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:09:34] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:10:27,775 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:10:27] "[33mPUT /api/products/1 HTTP/1.1[0m" 404 -
+2025-05-16 10:11:11,528 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:11:11] "[33mPUT /api/products/1 HTTP/1.1[0m" 404 -
+2025-05-16 10:11:19,112 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:11:19] "[33mPUT /api/products/1 HTTP/1.1[0m" 404 -
+2025-05-16 10:11:30,627 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:11:30] "[33mPUT /api/products/1 HTTP/1.1[0m" 404 -
+2025-05-16 10:11:40,485 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:11:40] "[31m[1mPUT /api/products/1 HTTP/1.1[0m" 400 -
+2025-05-16 10:11:46,959 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:11:46] "[33mPUT /api/products/1 HTTP/1.1[0m" 404 -
+2025-05-16 10:12:38,400 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:12:38] "[33mGET /api/products/1 HTTP/1.1[0m" 404 -
+2025-05-16 10:12:43,537 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:12:43] "GET /api/products/2 HTTP/1.1" 200 -
+2025-05-16 10:13:16,257 - __main__ - INFO - Product updated: 2
+2025-05-16 10:13:16,257 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:13:16] "PUT /api/products/2 HTTP/1.1" 200 -
+2025-05-16 10:14:13,999 - __main__ - INFO - Product updated: 3
+2025-05-16 10:14:13,999 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:14:13] "PUT /api/products/3 HTTP/1.1" 200 -
+2025-05-16 10:17:21,008 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:17:21] "GET /api/products/3 HTTP/1.1" 200 -
+2025-05-16 10:17:52,634 - __main__ - INFO - Product updated: 3
+2025-05-16 10:17:52,639 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:17:52] "PUT /api/products/3 HTTP/1.1" 200 -
+2025-05-16 10:18:00,642 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:18:00] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:18:33,841 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:18:33,846 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:18:35,140 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:18:35,140 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:18:46,504 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:18:46] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-16 10:18:46,593 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:18:46] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:18:46,647 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:18:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 10:19:17,440 - __main__ - INFO - New order created: 1
+2025-05-16 10:19:17,450 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:19:17] "[35m[1mPOST /api/orders HTTP/1.1[0m" 201 -
+2025-05-16 10:19:36,516 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:19:36] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:21:29,473 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:21:29] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:27:58,192 - __main__ - INFO - Database initialized successfully
+2025-05-16 10:27:58,206 - __main__ - WARNING - SSL certificates not found, running without HTTPS
+2025-05-16 10:27:59,494 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.1.12.190:8080
+2025-05-16 10:27:59,494 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 10:28:14,745 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:28:14] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-16 10:28:14,871 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:28:14] "GET /api/products HTTP/1.1" 200 -
+2025-05-16 10:28:14,925 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 10:28:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

@@ -1,0 +1,2 @@
+echo flask==2.3.3 > C:\Users\USER\tugas_reki\requirements.txt
+echo flask-cors==4.0.0 >> C:\Users\USER\tugas_reki\requirements.txt
